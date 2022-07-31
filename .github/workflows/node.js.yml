@@ -27,5 +27,5 @@ jobs:
     - run: npm install --legacy-peer-deps
     - run: node --max-old-space-size=4096 yourFile.js
     #- run: npm ci
-    - run: npm run build --if-present
+    - run: npm run build
     - run: npm test
