@@ -20,7 +20,7 @@ function SelfIntro() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at some good things to bring to the table, I think… 🤷‍♂️
+              I fell in love with programming and I have some good things to bring to the table, I think… 🤷‍♂️
               <br />
               <br />I am fluent in classics like
               <i>
@@ -28,10 +28,10 @@ function SelfIntro() {
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My field of Interests are building new &nbsp;
               <i>
                 <b className="purple">Web Technologies  &nbsp;</b> and also passionate
-                about all things in  &nbsp;<b className="purple">Embeeded Systems</b>
+                about all things in  &nbsp;<b className="purple">Embedded Systems</b>
               </i>
               <br />
               <br />
@@ -45,7 +45,7 @@ function SelfIntro() {
                 
               &nbsp; like
               
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> React.js and MongoDB</b>
               
             </p>
           </Col>
