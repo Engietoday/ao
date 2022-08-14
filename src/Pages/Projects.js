@@ -17,9 +17,9 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
         <Col md={6} className="project-card">
             <ProjectCards
-              imgPath="https://user-images.githubusercontent.com/91063960/139678548-e58c550e-51c5-4695-a0c3-d6563737548a.png"
-              title="Flipkart-clone"
-              description="Flipkart is one of the best and trending eCommerce sites with a presence throughout India. The online shopping website is for Buying and Selling products online within the network.Ao Yu's Flipkart clone is a ready-made remarkable multi-vendor eCommerce site Entrepreneurs can start their own business like Flipkart, it has RazorPay Integration and get money from anywhere, in mobile, web, and iOS platforms, Completely responsive design using Material UI."              link="https://github.com/sijeeshmiziha/flipkart"
+              imgPath="../Assets/surus.jpg"
+              title="GM Defense SURUS"
+              description="The GM SURUS platform is the next generation utility vehicle designed from the ground up with military applications in mind. My role in this system was to develop a way for the vehicle to autonomously navigate in off-road enviroments through use of SLAM. The vehicle platform was also made safer by use of an onboard safety monitoring software."              link="https://github.com/sijeeshmiziha/flipkart"
             />
           </Col>
           <Col md={6} className="project-card">
