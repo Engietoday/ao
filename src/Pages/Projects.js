@@ -17,16 +17,16 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
         <Col md={6} className="project-card">
             <ProjectCards
-              imgPath="../Assets/surus.jpg"
+              imgPath="https://raw.githubusercontent.com/Engietoday/ao/main/src/Assets/surus.jpg"
               title="GM Defense SURUS"
               description="The GM SURUS platform is the next generation utility vehicle designed from the ground up with military applications in mind. My role in this system was to develop a way for the vehicle to autonomously navigate in off-road enviroments through use of SLAM. The vehicle platform was also made safer by use of an onboard safety monitoring software."              link="https://github.com/sijeeshmiziha/flipkart"
             />
           </Col>
           <Col md={6} className="project-card">
             <ProjectCards
-              imgPath="https://user-images.githubusercontent.com/91063960/139376405-043d6cfd-93b3-4486-a07a-2ff3382846d8.png"
-              title="Olx-clone"
-              description="Olx-Clone is the potential classified advertisement website that categorizes objects in a user-friendly manner & displayed as an advertisement.., Classifieds can be posted that involve selling, buying, exchanging and will be adding a new feture that organizing to meet people nearby your location."
+              imgPath="https://raw.githubusercontent.com/Engietoday/ao/main/src/Assets/origin.jpg"
+              title="GM-Cruise"
+              description="The A100 Origin is the flagship vehicle both both GM and Cruise Automation in for self-driving vehicles. I developed software for the embedded controllers in this platform and have worked with suppliers to bring this project closer to production ready."
               link="https://github.com/sijeeshmiziha/olx"
             />
           </Col>
