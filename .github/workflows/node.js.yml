@@ -28,5 +28,5 @@ jobs:
     #- run: node --max-old-space-size=4096 yourFile.js
     - run: export NODE_OPTIONS="--max-old-space-size=8192"
     - run: npm ci --legacy-peer-deps
-    - run: npm run build
+    - run: npm run --max_old_space_size=4096 build
     - run: npm test
