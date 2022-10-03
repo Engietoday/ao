@@ -38,6 +38,14 @@ function Projects() {
               description="Being a software engineer in the ultra cruise program opened my eyes to the complex nature of commercial autonomous technology. My responsibilities include algorithm developement, root-cause analysis, test automation, basic software debelopement, and software architecture."              link="https://newatlas.com/automotive/gm-ultra-cruise/"
             />
           </Col>
+
+          <Col md={6} className="project-card">
+            <ProjectCards
+              imgPath="https://raw.githubusercontent.com/Engietoday/ao/main/src/Assets/pawbook.jpg"
+              title="Pawbook - Social Media for Your Furry Pals"
+              description="Developed as a passion project, Pawbook is a social media clone of Facebook but with all the quirky fun feel of interacting with our furry pals. No Humans Allowed! 😉"              link="https://github.com/Engietoday/pawbook"
+            />
+          </Col>
         </Row>
       </Container>
     </Container>
