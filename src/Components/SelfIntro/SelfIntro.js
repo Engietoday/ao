@@ -20,7 +20,7 @@ function SelfIntro() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have some good things to bring to the table, I think… 🤷‍♂️
+              I fell in love with programming and I have some good things to bring to the table 🤷‍♂️
               <br />
               <br />I am fluent in classics like
               <i>
@@ -35,7 +35,7 @@ function SelfIntro() {
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
+              Whenever possible, I apply my passion for developing products
               with <b className="purple">Node.js</b> and
               
                 <b className="purple">
@@ -62,7 +62,7 @@ function SelfIntro() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/sijeeshmiziha"
+                  href="https://github.com/Engietoday"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -73,7 +73,7 @@ function SelfIntro() {
 
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/sijeeshmiziha/"
+                  href="https://www.linkedin.com/in/ao-yu"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -83,7 +83,7 @@ function SelfIntro() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/sijeeshmiziha/"
+                  href="https://www.instagram.com"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
@@ -93,7 +93,7 @@ function SelfIntro() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://youtube.com/c/SijeeshMiziha"
+                  href="https://youtube.com"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"

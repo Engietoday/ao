@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             <br />I have been a Software Engineer since 2017 and loved every moment of it.<br /> <br />
            <br />
-            ⚡ I have studied basic controls and software engineering subjects like DS, Algorithms, DBMS, OS, CN etc.
+            ⚡ I have lead many high profile software development for innovative projects.
             <br />
            <br />
             <br />
